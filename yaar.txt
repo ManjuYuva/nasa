@@ -1,0 +1,3 @@
+--set-upstream origin
+--set-upstream originfcmdfmsld
+lndvlds
