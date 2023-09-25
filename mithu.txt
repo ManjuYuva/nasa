@@ -1,0 +1,13 @@
+ create mode 100644 mesh/test1.sh
+
+MANJULA YUVARAJA@LAPTOP-NUS6DS79 MINGW64 ~/OneDrive/Desktop/nasa_1/nasa/mesh (yuva)
+$ git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 20 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (5/5), 379 bytes | 379.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/ManjuYuva/nasa.git
+   d18ddcb..5f33459  yuva -> yuva
+
